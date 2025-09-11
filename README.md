@@ -1,3 +1,6 @@
+## Contact
+email de contact pour toute demande: [ed-iaem-cma-contact@univ-lorraine.fr](mailto:ed-iaem-cma-contact@univ-lorraine.fr)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ### Table des matières
@@ -51,6 +54,8 @@
 
 [⬆️ Retour en haut](#table-des-matières)
 
+---
+
 ## Procédure de validation des jurys de thèse
 
 1. Transmission à la CMA (<ed-iaem-cma-contact@univ-lorraine.fr>) pour étude et présentation lors de la tenue de la prochaine réunion de la CMA des documents demandés ([cf rubrique ci-dessus](#liste-des-éléments-à-fournir-avant-la-réunion-de-la-cma-pour-différents-cas))
@@ -65,6 +70,8 @@
 - Procédure de soutenance : [fichier pdf 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/user/etre-doctorant/soutenance/Proc%C3%A9dure%20d%C3%A9taill%C3%A9e_Soutenance%20MAJ%2008022024.pdf)
 
 [⬆️ Retour en haut](#table-des-matières)
+
+---
 
 ## Procédure de demande d’autorisation d’inscription à l’HDR
 
@@ -84,6 +91,8 @@ Au moins 5 mois avant la soutenance, le/la candidat(e) dépose son dossier en 1 
 - [page web UL 🔗](https://doctorat.univ-lorraine.fr/fr/etre-encadrant/candidater-lact-ou-lhdr)
 
 [⬆️ Retour en haut](#table-des-matières)
+
+---
 
 ## Procédure de demande d’autorisation à co-diriger des thèses (ACT)
 
