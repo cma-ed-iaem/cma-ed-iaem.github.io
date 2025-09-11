@@ -17,45 +17,45 @@
 ## Liste des éléments à fournir avant la réunion de la CMA pour différents cas
 
 ### Proposition de jury de doctorat
-
+👉  *Que fournir?*
 - Formulaire Proposition Composition Jury Doctorat (merci de remplir tous les champs)
 - Résumé de la thèse (1/2 page)
 - Liste détaillée des publications (publiées et soumises)
 - Extraction Adum « Formations » (justificatif de l’acquisition de tous les crédits obligatoires)
 
 ### Demande d’inscription en 1ère année de thèse
-
+👉  *Que fournir?*
 - Sujet de thèse détaillé + encadrement
 - Financement
 - Pour chaque candidat : CV + relevés des notes + dernier diplome
 
-Liste des pièces à fournir pour inscription auprès de l’ED : <https://doctorat.univ-lorraine.fr/sites/default/files/user/futurs%20doctorants/inscriptions/Liste%20pi%C3%A8ce%20inscription%20MAJ%201A03072025.pdf>
+Liste des pièces à fournir pour inscription auprès de l’ED : [fichier pdf 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/user/futurs%20doctorants/inscriptions/Liste%20pi%C3%A8ce%20inscription%20MAJ%201A03072025.pdf) 
 
-Page Web : <https://doctorat.univ-lorraine.fr/fr/futurs-doctorants/candidater>
+Page Web : [page web 🔗](https://doctorat.univ-lorraine.fr/fr/futurs-doctorants/candidater)
 
-Procédure détaillée UL d’inscription : <https://doctorat.univ-lorraine.fr/sites/default/files/documents/FR/guide_inscription.pdf>
+Procédure détaillée UL d’inscription : [fichier pdf 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/documents/FR/guide_inscription.pdf)
 
-Guide du CSI : <http://doctorat.univ-lorraine.fr/sites/default/files/user/etre-doctorant/CSI/guide_csi.pdf>
+Guide du CSI : [fichier pdf 🔗](http://doctorat.univ-lorraine.fr/sites/default/files/user/etre-doctorant/CSI/guide_csi.pdf)
 
 ### Demande de dérogation pour une réinscription en 4ème année (ou plus)
 
-Le CSI doit s’être réuni et le rapport déposé sur Adum
+> **Condition nécessaire** : le CSI doit s’être réuni et le rapport déposé sur Adum
 
+👉 *Que fournir?*
 - Argumentaire signé par le doctorant et le directeur de thèse justifiant le dépassement des 3 années initiales
-- Justification de financement / revenus ou attestion UL (Déclaration de ressources financières personnelles <https://doctorat.univ-lorraine.fr/sites/default/files/documents/FR/UL_declaration_ressources_personnelles_form.pdf>
-- )
+- Justification de financement / revenus ou attestion UL (Déclaration de ressources financières personnelles [fichier pdf 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/documents/FR/UL_declaration_ressources_personnelles_form.pdf)
 - Etat d’avancement de la thèse
 - Planning prévisionnel (jusqu’à la soutenance)
 - Liste détaillée des publications (publiées et soumises)
-- Si cotutelle Fiche (<https://doctorat.univ-lorraine.fr/sites/default/files/user/international/Fiche%20de%20suivi%20cotutelle.pdf>)
+- Si cotutelle: [fiche pdf à compléter 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/user/international/Fiche%20de%20suivi%20cotutelle.pdf)
 
-Document UL : <https://doctorat.univ-lorraine.fr/sites/default/files/documents/FR/Liste_pieces_derogatoire.pdf>
+Document UL de référence : [fichier pdf 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/documents/FR/Liste_pieces_derogatoire.pdf)
 
 [⬆️ Retour en haut](#table-des-matières)
 
 ## Procédure de validation des jurys de thèse
 
-1. Transmission à la CMA (<ed-iaem-cma-contact@univ-lorraine.fr>) pour étude et présentation lors de la tenue de la prochaine réunion de la CMA des documents demandés (cf rubrique xxxx – page précédente)
+1. Transmission à la CMA (<ed-iaem-cma-contact@univ-lorraine.fr>) pour étude et présentation lors de la tenue de la prochaine réunion de la CMA des documents demandés ([cf rubrique ci-dessus](#liste-des-éléments-à-fournir-avant-la-réunion-de-la-cma-pour-différents-cas))
 
 2. Une fois le jury validé par la CMA, le directeur de thèse transmet ces informations au doctorant ainsi que les éventuelles lettres de dérogation (nombre de femmes dans le jury ; manuscrit en anglais ; soutenance en anglais ; soutenance en visio)
 
