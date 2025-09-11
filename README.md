@@ -18,7 +18,7 @@
 
 ### Proposition de jury de doctorat
 👉  *Que fournir?*
-- Formulaire Proposition Composition Jury Doctorat (merci de remplir tous les champs)
+- [Formulaire Proposition Composition Jury Doctorat 🔗](/assets/formulaire_cma_jury_these.xlsx) (merci de remplir tous les champs)
 - Résumé de la thèse (1/2 page)
 - Liste détaillée des publications (publiées et soumises)
 - Extraction Adum « Formations » (justificatif de l’acquisition de tous les crédits obligatoires)
@@ -71,10 +71,10 @@
 La demande s’effectue auprès de la Direction de la Recherche et de la Valorisation (DRV), Sous-direction de l’administration de la recherche (SDAR).
 > Direction de la Recherche et de la Valorisation (DRV), Sous-direction de l’administration de la recherche (SDAR)
 > 
-> contact « drv-hdr » 
+> contact « drv-hdr » pour demande d'information
 > 
 > 91, avenue de la Libération - BP 454 - 54001 NANCY Cedex
-Mme Isabelle Vaillant-Maréchal - tél : 03.72.74.04.55].
+Mme Isabelle Vaillant-Maréchal - tél : 03.72.74.04.55.
 
 Au moins 5 mois avant la soutenance, le/la candidat(e) dépose son dossier en 1 exemplaire électronique à l’adresse suivante : <drv-hdr@univ-lorraine.fr>
 
@@ -87,17 +87,19 @@ Au moins 5 mois avant la soutenance, le/la candidat(e) dépose son dossier en 1 
 
 ## Procédure de demande d’autorisation à co-diriger des thèses (ACT)
 
-Détail de la procédure : <https://doctorat.univ-lorraine.fr/sites/default/files/user/encadrants/ressources/Proc%C3%A9dure_ACT_01-07-2021.pdf>
-
-Formulaire ACT : <https://doctorat.univ-lorraine.fr/sites/default/files/user/encadrants/ressources/Formulaire_ACT_01-07-2021.doc>
-
 La demande s’effectue auprès de la Direction de la Recherche et de la Valorisation (DRV), Sous-direction de l’administration de la recherche (SDAR) au cours de la 1ère année de thèse du/de la doctorant(e)
 (ce délai d’un an court à compter de la date d’inscription du/de la doctorant(e) dans le logiciel Apogée), le/la candidat(e) dépose son dossier en 1 exemplaire électronique à l’adresse suivante : <drv-act@univ-lorraine.fr>
 
-[Pour information : contact « drv-act » => Direction de la Recherche et de la Valorisation (DRV), Sous-direction de l’administration de la recherche (SDAR)
-91, avenue de la Libération - BP 454 - 54001 NANCY Cedex
-Mme Isabelle Vaillant-Maréchal - tél : 03.72.74.04.55].
+> Direction de la Recherche et de la Valorisation (DRV), Sous-direction de l’administration de la recherche (SDAR)
+> 
+> contact « drv-act » pour demande d'information
+> 
+> 91, avenue de la Libération - BP 454 - 54001 NANCY Cedex
+Mme Isabelle Vaillant-Maréchal - tél : 03.72.74.04.55.
 
-Page Web : <https://doctorat.univ-lorraine.fr/fr/etre-encadrant/candidater-lact-ou-lhdr>
+📂 *Documents de référence*
+- Détail de la procédure : [fichier pdf 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/user/encadrants/ressources/Proc%C3%A9dure_ACT_01-07-2021.pdf)
+- Formulaire ACT : [fichier doc 🔗](https://doctorat.univ-lorraine.fr/sites/default/files/user/encadrants/ressources/Formulaire_ACT_01-07-2021.doc)
+- [page web UL 🔗](https://doctorat.univ-lorraine.fr/fr/etre-encadrant/candidater-lact-ou-lhdr)
 
 [⬆️ Retour en haut](#table-des-matières)
